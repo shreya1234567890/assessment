@@ -1,0 +1,11 @@
+﻿product_id,product_name,category,stock_quantity
+101,laptop,Electronics,10
+102,smartphone,Electronics,20
+103,tablet,Electronics,15
+104,television,Electronics,8
+105,refrigerator,Appliances,12
+106,washing Machine,Appliances,7
+107,clothing,Apparel,30
+108,shoes,Apparel,25
+109,books,Books,50
+110,toys,Toys,40
